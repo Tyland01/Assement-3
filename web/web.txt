@@ -1,0 +1,3 @@
+the internet is a way to connect computers all together. A network is what keeps them connected. They are  all connected to a router. we connect routers in a netwrk of routers in order for everything to flow.
+Url means Uniform Resource Locator. It finds the ip address. Then TCP protocall happens.  A client computer sends a SYN message, receives its message and acknowledge by sending an ACK message.
+
